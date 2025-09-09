@@ -1,7 +1,5 @@
 ```
-hi ♥
-
-im cens6r!!!
+hi
 
 EOF
 ```
